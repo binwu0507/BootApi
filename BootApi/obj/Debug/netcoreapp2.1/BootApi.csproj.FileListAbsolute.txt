@@ -1,0 +1,14 @@
+C:\Training\Net Core\Web API\BootApi\BootApi\bin\Debug\netcoreapp2.1\BootApi.deps.json
+C:\Training\Net Core\Web API\BootApi\BootApi\bin\Debug\netcoreapp2.1\BootApi.runtimeconfig.json
+C:\Training\Net Core\Web API\BootApi\BootApi\bin\Debug\netcoreapp2.1\BootApi.runtimeconfig.dev.json
+C:\Training\Net Core\Web API\BootApi\BootApi\bin\Debug\netcoreapp2.1\BootApi.dll
+C:\Training\Net Core\Web API\BootApi\BootApi\bin\Debug\netcoreapp2.1\BootApi.pdb
+C:\Training\Net Core\Web API\BootApi\BootApi\obj\Debug\netcoreapp2.1\BootApi.csprojAssemblyReference.cache
+C:\Training\Net Core\Web API\BootApi\BootApi\obj\Debug\netcoreapp2.1\BootApi.csproj.CoreCompileInputs.cache
+C:\Training\Net Core\Web API\BootApi\BootApi\obj\Debug\netcoreapp2.1\BootApi.RazorAssemblyInfo.cache
+C:\Training\Net Core\Web API\BootApi\BootApi\obj\Debug\netcoreapp2.1\BootApi.RazorAssemblyInfo.cs
+C:\Training\Net Core\Web API\BootApi\BootApi\obj\Debug\netcoreapp2.1\BootApi.AssemblyInfoInputs.cache
+C:\Training\Net Core\Web API\BootApi\BootApi\obj\Debug\netcoreapp2.1\BootApi.AssemblyInfo.cs
+C:\Training\Net Core\Web API\BootApi\BootApi\obj\Debug\netcoreapp2.1\BootApi.RazorTargetAssemblyInfo.cache
+C:\Training\Net Core\Web API\BootApi\BootApi\obj\Debug\netcoreapp2.1\BootApi.dll
+C:\Training\Net Core\Web API\BootApi\BootApi\obj\Debug\netcoreapp2.1\BootApi.pdb
