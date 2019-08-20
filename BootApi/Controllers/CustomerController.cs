@@ -14,8 +14,6 @@ namespace BootApi.Controllers
     [ApiController]
     public class CustomerController : Controller
     {
-
-
         private readonly MyContext _context;
 
         public CustomerController(MyContext context)
